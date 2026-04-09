@@ -4,5 +4,5 @@ HI, I'm Alan and here I bring the azu theme for neovim and alacritty. To contrib
 
 ## Images
 
-![azu-theme-test](./images/azu-theme-text.png)
+![azu-theme-test](https://github.com/dunkelheitEXE/azu-theme/blob/master/images/azu-theme-test.png)
 
